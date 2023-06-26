@@ -5,8 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'Sept 03, 2021',
-  name: 'IIN FITRIANI'
-};
+  name: 'PANJUL'
 
 function hideEverything() {
   head.style.display = 'none';
